@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deliverables</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/myDeliverables.css">
+</head>
+<body>
+<!--Navigation Bar -->
+<ul>
+  <li><a href="index.html"></a></li>
+  <li><a href="about.html"></a></li>
+  <li><a href="team.html"></a></li>
+</ul>
+  <div class="title" >Deliverables</div>
+  <div class="header">ECE Senior Design I</div>
+<!-- Table header (FIFO)-->
+  <div class="grid-container">
+    <div class="grid-item">Document</div>
+    <div class="grid-item">Draft</div>
+    <div class="grid-item">Final</div>
+<!-- Table contains -->
+    <div class="grid-item">Product Specification</div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_ProductSpecification_Draft.pptx" target="_blank"><img src="image\ppt.png" height="40" width="40" align="center"></a></div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_ProductSpecification_Final.pptx" target="_blank"><img src="image\ppt.png" height="40" width="40" align="center"></a></div>  
+    
+    <div class="grid-item">Problem Statement</div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_ProblemStatement_Draft.docx" target="_blank"><img src="image\docx.png" height="40" width="40" align="center"></a></div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_ProblemStatement_Final.docx" target="_blank"><img src="image\docx.png" height="40" width="40" align="center"></a></div> 
+    
+    <div class="grid-item">Design Constraints</div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_DesignConstrains_Draft.docx" target="_blank"><img src="image\docx.png" height="40" width="40" align="center"></a></div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_DesignConstraints_Final.docx" target="_blank"><img src="image\docx.png" height="40" width="40" align="center"></a></div>
+    
+    <div class="grid-item">Design Approach</div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_DesignApproach_Draft.docx" target="_blank"><img src="image\docx.png" height="40" width="40" align="center"></a></div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_DesignApproach_Final.docx" target="_blank"><img src="image\docx.png" height="40" width="40" align="center"></a></div>
+
+    <div class="grid-item">Midsemester Dry Run</div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_MidSemester_DryRun.pptx" target="_blank"><img src="image\ppt.png" height="40" width="40" align="center"></a></div>
+    <div class="grid-item"><a href="docs\AutomaticFishFeeder_MidSemester_Final.pptx" target="_blank"><img src="image\ppt.png" height="40" width="40" align="center"></a></div>
+
+    <div class="grid-item">Executive Summary</div>
+    <div class="grid-item">NA</div>
+    <div class="grid-item">NA</div>
+    
+    <div class="grid-item">Evaluation</div>
+    <div class="grid-item">NA</div>
+    <div class="grid-item">NA</div>
+
+    <div class="grid-item">Final Semester Dry Run</div>
+    <div class="grid-item">NA</div>
+    <div class="grid-item">NA</div>
+
+    <div class="grid-item">Design 1 Final Document</div>
+    <div class="grid-item">NA</div>
+    <div class="grid-item">NA</div>
+
+  </div>
+<p align="center">Note: Yet to work on page layout!</p>
+</body>
+</html>
