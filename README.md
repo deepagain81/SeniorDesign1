@@ -1,5 +1,5 @@
 # SeniorDesign1
-This is a git site for our ECE- Senior Design-1 website. 
+This is a github site for our ECE- Senior Design-1 project. 
 ##########################################################################################
     ## This is a Top-level control module for Automatic Fish Feeder System(AFFS).   ##
     ## AFFS is a ECE senior design-1 project at Mississippi State University,       ##
